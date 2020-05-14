@@ -1,0 +1,19 @@
+{
+    "name": "souvik/exam",
+    "description": "This package will generate online exam system",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "souvikpandit",
+            "email": "souvikpandit3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "souvik\\exam\\": "src/"
+        }
+    }
+}
